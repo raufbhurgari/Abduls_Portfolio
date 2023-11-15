@@ -247,6 +247,15 @@ section {
   width: 8rem;
   border-radius: 2rem;
 }
+.btn1{
+  font-weight: 600;
+  transition: all 300ms ease;
+  padding: 10px;
+  width: 8rem;
+  border-radius: 0.5rem;
+  font-size: 18px;
+  
+}
 
 .btn-color-1,
 .btn-color-2 {
